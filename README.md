@@ -13,8 +13,8 @@ I’m a recent computer science graduate with a strong interest in cybersecurity
 | Encrypted VPN Tunnel Setup and Routing   | [Homemade VPN](https://github.com/rgutierrezz/homemade-vpn)|
 | DNS Filtering and Threat Blocking         | [DNS Sinkhole](https://github.com/rgutierrezz/dns-sinkhole)|
 | Firewall Configuration and Port Access Control       | [UFW Firewall Setup](https://github.com/rgutierrezz/homemade-firewall)|
-| Intrusion Detection and Packet Inspection                 | [Snort Intrusion Detection System (IDS)](https://github.com/rgutierrezz/ids-sinkhole)|
-| Network Traffic Monitoring with CLI Tools   | [Snort Intrusion Detection System (IDS)](https://github.com/rgutierrezz/ids-sinkhole)|
+| Intrusion Detection and Packet Inspection                 | [Snort Intrusion Detection System (IDS)](https://github.com/rgutierrezz/IDS-using-Snort)|
+| Network Traffic Monitoring with CLI Tools   | [Snort Intrusion Detection System (IDS)](https://github.com/rgutierrezz/IDS-using-Snort)]|
 
 ## Tools
 
