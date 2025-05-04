@@ -44,7 +44,7 @@ I’m a recent computer science graduate with a strong interest in cybersecurity
 - CompTIA Network+ (In progress)
 
 ## Projects
-### 🔐 [Homemade VPN](https://github.com/rafaelgutierrezjr/homemade-vpn)
+### 🔐 [Homemade VPN](https://github.com/rgutierrezz/homemade-vpn)
 A secure, self-hosted VPN built using WireGuard on a cloud-based Ubuntu VPS.
 
 - Configured WireGuard for encrypted tunneling of internet traffic
