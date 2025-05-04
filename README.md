@@ -14,7 +14,7 @@ I’m a recent computer science graduate with a strong interest in cybersecurity
 | DNS Filtering and Threat Blocking         | [DNS Sinkhole](https://github.com/rgutierrezz/dns-sinkhole)|
 | Firewall Configuration and Port Access Control       | [UFW Firewall Setup](https://github.com/rgutierrezz/homemade-firewall)|
 | Intrusion Detection and Packet Inspection                 | [Snort Intrusion Detection System (IDS)](https://github.com/rgutierrezz/IDS-using-Snort)|
-| Network Traffic Monitoring with CLI Tools   | [Snort Intrusion Detection System (IDS)](https://github.com/rgutierrezz/IDS-using-Snort)]|
+| Network Traffic Monitoring with CLI Tools   | [Snort Intrusion Detection System (IDS)](https://github.com/rgutierrezz/IDS-using-Snort)|
 
 ## Tools
 
@@ -73,7 +73,7 @@ Set up a DNS sinkhole using BIND9 to block malicious domains.
 
 ---
 
-### 👁️ [Snort Intrusion Detection System (IDS)](https://github.com/rgutierrezz/snort-ids)
+### 👁️ [Snort Intrusion Detection System (IDS)](https://github.com/rgutierrezz/IDS-using-Snort)
 Deployed Snort 3 on macOS to monitor and log suspicious network traffic.
 
 - Installed Snort using Homebrew and created a basic ICMP detection rule
