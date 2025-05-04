@@ -9,12 +9,12 @@ I’m a recent computer science graduate with a strong interest in cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Linux Server Administration  | [Homemade VPN](https://github.com/rgutierrezz/homemade-vpn) , [UFW Firewall Setup](https://github.com/rgutierrezz/linux-firewall)|
+| Linux Server Administration  | [Homemade VPN](https://github.com/rgutierrezz/homemade-vpn) , [UFW Firewall Setup](https://github.com/rgutierrezz/homemade-firewall)|
 | Encrypted VPN Tunnel Setup and Routing   | [Homemade VPN](https://github.com/rgutierrezz/homemade-vpn)|
 | DNS Filtering and Threat Blocking         | [DNS Sinkhole](https://github.com/rgutierrezz/dns-sinkhole)|
-| Firewall Configuration and Port Access Control       | [UFW Firewall Setup](https://github.com/rgutierrezz/linux-firewall)|
-| Intrusion Detection and Packet Inspection                 | [Snort Intrusion Detection System (IDS)](https://github.com/rgutierrezz/snort-ids)|
-| Network Traffic Monitoring with CLI Tools   | [Snort Intrusion Detection System (IDS)](https://github.com/rgutierrezz/snort-ids)|
+| Firewall Configuration and Port Access Control       | [UFW Firewall Setup](https://github.com/rgutierrezz/homemade-firewall)|
+| Intrusion Detection and Packet Inspection                 | [Snort Intrusion Detection System (IDS)](https://github.com/rgutierrezz/ids-sinkhole)|
+| Network Traffic Monitoring with CLI Tools   | [Snort Intrusion Detection System (IDS)](https://github.com/rgutierrezz/ids-sinkhole)|
 
 ## Tools
 
@@ -55,7 +55,7 @@ A secure, self-hosted VPN built using WireGuard on a cloud-based Ubuntu VPS.
 
 ---
 
-### 🔥 [UFW Firewall Setup](https://github.com/rgutierrezz/linux-firewall)
+### 🔥 [UFW Firewall Setup](https://github.com/rgutierrezz/homemade-firewall)
 Configured a firewall using UFW (Uncomplicated Firewall) on a Linux VPS.
 
 - Enabled default-deny policy with explicit allow rules for SSH, HTTP, and HTTPS
