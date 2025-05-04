@@ -9,12 +9,12 @@ I’m a recent computer science graduate with a strong interest in cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Linux Server Administration  | [Homemade VPN](https://github.com/rafaelgutierrezjr/homemade-vpn) , [UFW Firewall Setup](https://github.com/rafaelgutierrezjr/linux-firewall)|
-| Encrypted VPN Tunnel Setup and Routing   | [Homemade VPN](https://github.com/rafaelgutierrezjr/homemade-vpn)|
-| DNS Filtering and Threat Blocking         | [DNS Sinkhole](https://github.com/rafaelgutierrezjr/dns-sinkhole)|
-| Firewall Configuration and Port Access Control       | [UFW Firewall Setup](https://github.com/rafaelgutierrezjr/linux-firewall)|
-| Intrusion Detection and Packet Inspection                 | [Snort Intrusion Detection System (IDS)](https://github.com/rafaelgutierrezjr/snort-ids)|
-| Network Traffic Monitoring with CLI Tools   | [Snort Intrusion Detection System (IDS)](https://github.com/rafaelgutierrezjr/snort-ids)|
+| Linux Server Administration  | [Homemade VPN](https://github.com/rgutierrezz/homemade-vpn) , [UFW Firewall Setup](https://github.com/rgutierrezz/linux-firewall)|
+| Encrypted VPN Tunnel Setup and Routing   | [Homemade VPN](https://github.com/rgutierrezz/homemade-vpn)|
+| DNS Filtering and Threat Blocking         | [DNS Sinkhole](https://github.com/rgutierrezz/dns-sinkhole)|
+| Firewall Configuration and Port Access Control       | [UFW Firewall Setup](https://github.com/rgutierrezz/linux-firewall)|
+| Intrusion Detection and Packet Inspection                 | [Snort Intrusion Detection System (IDS)](https://github.com/rgutierrezz/snort-ids)|
+| Network Traffic Monitoring with CLI Tools   | [Snort Intrusion Detection System (IDS)](https://github.com/rgutierrezz/snort-ids)|
 
 ## Tools
 
@@ -55,7 +55,7 @@ A secure, self-hosted VPN built using WireGuard on a cloud-based Ubuntu VPS.
 
 ---
 
-### 🔥 [UFW Firewall Setup](https://github.com/rafaelgutierrezjr/linux-firewall)
+### 🔥 [UFW Firewall Setup](https://github.com/rgutierrezz/linux-firewall)
 Configured a firewall using UFW (Uncomplicated Firewall) on a Linux VPS.
 
 - Enabled default-deny policy with explicit allow rules for SSH, HTTP, and HTTPS
@@ -64,7 +64,7 @@ Configured a firewall using UFW (Uncomplicated Firewall) on a Linux VPS.
 
 ---
 
-### 🛡️ [DNS Sinkhole](https://github.com/rafaelgutierrezjr/dns-sinkhole)
+### 🛡️ [DNS Sinkhole](https://github.com/rgutierrezz/dns-sinkhole)
 Set up a DNS sinkhole using BIND9 to block malicious domains.
 
 - Configured a recursive DNS server to intercept and redirect queries
@@ -73,7 +73,7 @@ Set up a DNS sinkhole using BIND9 to block malicious domains.
 
 ---
 
-### 👁️ [Snort Intrusion Detection System (IDS)](https://github.com/rafaelgutierrezjr/snort-ids)
+### 👁️ [Snort Intrusion Detection System (IDS)](https://github.com/rgutierrezz/snort-ids)
 Deployed Snort 3 on macOS to monitor and log suspicious network traffic.
 
 - Installed Snort using Homebrew and created a basic ICMP detection rule
