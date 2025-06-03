@@ -3,7 +3,7 @@ www.linkedin.com/in/rafaelgutierrezjr
 
 
 ## Objective
-I’m a recent computer science graduate with a strong interest in cybersecurity and hands-on experience in configuring VPNs, firewalls, DNS sinkholes, and intrusion detection systems. I'm currently seeking an entry-level role in IT or cybersecurity where I can contribute to system security, network management, or technical support while continuing to grow my skills in real-world environments.
+Skilled in network configuration, system administration, and security tooling with hands-on experience managing VPNs, firewalls, DNS services, and intrusion detection systems on Linux-based servers. Proficient in troubleshooting connectivity, routing, and security issues using command-line tools and open-source software. Committed to applying practical solutions to enhance network reliability and system security, with a strong foundation in Linux server management, network protocols, and automated monitoring. Continuously adapting to emerging technologies to address real-world IT and network challenges.
 
 ## Skills
 
